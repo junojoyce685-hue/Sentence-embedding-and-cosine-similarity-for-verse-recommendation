@@ -1,4 +1,4 @@
-# gita_personality_app.py
+# gita_personality_.py
 import streamlit as st
 import pandas as pd
 import json
