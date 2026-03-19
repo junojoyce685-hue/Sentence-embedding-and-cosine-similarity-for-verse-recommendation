@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "When you face a major failure in life, how do you usually respond and what thoughts guide your next actions?",
+      "intent": "failure_response"
+    },
+    {
+      "id": 2,
+      "question": "What motivates your decisions the most when choosing between different paths in life?",
+      "intent": "life_motivation"
+    },
+    {
+      "id": 3,
+      "question": "Describe what gives your life the strongest sense of meaning or purpose.",
+      "intent": "life_purpose"
+    },
+    {
+      "id": 4,
+      "question": "When you encounter uncertainty about the future, what helps you deal with that feeling?",
+      "intent": "uncertainty_handling"
+    },
+    {
+      "id": 5,
+      "question": "How do you usually approach learning about yourself and the world around you?",
+      "intent": "self_understanding"
+    },
+    {
+      "id": 6,
+      "question": "When making an important decision, what internal process do you usually follow?",
+      "intent": "decision_process"
+    },
+    {
+      "id": 7,
+      "question": "What role do discipline, effort, faith, or reflection play in how you live your daily life?",
+      "intent": "daily_principles"
+    },
+    {
+      "id": 8,
+      "question": "If you had to describe your personal philosophy of life, what would it be?",
+      "intent": "life_philosophy"
+    }
+  ]
+}
