@@ -124,4 +124,4 @@ if st.button("Submit"):
             st.markdown(f"**Chapter {verse['Chapter']} Verse {verse['Verse']}**")
             st.markdown(f"*Shloka:* {verse['Shloka']}")
             st.markdown(f"*Meaning:* {verse['EngMeaning']}")
-            st.markdown(f"*Why this verse was recommended:* This verse aligns with your **{personality.upper()} YOGA** tendencies.\n---")
+            st.markdown(f"\n---")
